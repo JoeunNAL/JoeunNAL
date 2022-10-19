@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=8553d1&text=Hello,%20I'm%20Eunjin%20&fontSize=50&fontAlign=55)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=8553d1&text=Hello,%20I'm%20Eunjin%20&fontSize=50&fontAlign=50)
 
 일상에서 불편함을 발견하고, 개선하는 프론트엔드 개발자가 될겁니다🔥
 
